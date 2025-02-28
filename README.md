@@ -8,8 +8,8 @@ Matricula: 886144
 
 ## Tela de inspeção com navegador
 Site: Youtube
-![Image] (Imagem 1.png)
+![Image] (https://github.com/ICEI-DIW/trabalho-pratico-semana-01-phaelgsilva/blob/main/Imagem%201.png)
 
 ## Tela de projeto no Replit
 
-![Image] (Imagem 2.png)
+![Image] (https://github.com/ICEI-DIW/trabalho-pratico-semana-01-phaelgsilva/blob/main/Imagem%201.png)
