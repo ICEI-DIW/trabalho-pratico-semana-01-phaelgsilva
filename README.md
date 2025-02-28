@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Raphael Guimarães Reis Dias e Silva
+Matricula: 886144
 
 ## Tela de inspeção com navegador
-
+Site: Youtube
+https://imgur.com/a/kwrZMcZ
 
 ## Tela de projeto no Replit
 
+https://imgur.com/U9ijUGN
