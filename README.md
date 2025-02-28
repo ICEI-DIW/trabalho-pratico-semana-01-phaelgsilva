@@ -7,9 +7,11 @@ Nome: Raphael Guimarães Reis Dias e Silva
 Matricula: 886144
 
 ## Tela de inspeção com navegador
+
 Site: Youtube
-![Image] (https://github.com/ICEI-DIW/trabalho-pratico-semana-01-phaelgsilva/blob/main/Imagem%201.png)
+
+![alt text](https://github.com/ICEI-DIW/trabalho-pratico-semana-01-phaelgsilva/blob/main/Imagem%201.png)
 
 ## Tela de projeto no Replit
 
-![Image] (https://github.com/ICEI-DIW/trabalho-pratico-semana-01-phaelgsilva/blob/main/Imagem%201.png)
+![alt text](https://github.com/ICEI-DIW/trabalho-pratico-semana-01-phaelgsilva/blob/main/Imagem%202.png)
