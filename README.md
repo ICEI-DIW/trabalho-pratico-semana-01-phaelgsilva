@@ -8,8 +8,8 @@ Matricula: 886144
 
 ## Tela de inspeção com navegador
 Site: Youtube
-https://imgur.com/a/kwrZMcZ
+![Image] (Imagem 1.png)
 
 ## Tela de projeto no Replit
 
-https://imgur.com/U9ijUGN
+![Image] (Imagem 2.png)
